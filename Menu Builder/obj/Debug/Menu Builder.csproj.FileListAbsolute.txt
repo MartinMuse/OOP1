@@ -1,0 +1,10 @@
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Menu Builder.exe.config
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Menu Builder.exe
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Menu Builder.pdb
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.csprojAssemblyReference.cache
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu_Builder.Properties.Resources.resources
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.csproj.GenerateResource.cache
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.csproj.CoreCompileInputs.cache
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.exe
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.pdb
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu_Builder.MenuBuilder_form.resources
